@@ -1,9 +1,6 @@
 
-# ✨ Hello, I'm Lauren. 
+# laurenmaedigital.com 
 
-A technical writer and content specialist.
-
-Website: laurenmaedigital.com <br>
-Twitter: @heylaurenmae
+This is my personal website. It contains my full work history and a portfolio of my writing. 
 
 
